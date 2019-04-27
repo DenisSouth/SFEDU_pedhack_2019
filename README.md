@@ -10,10 +10,13 @@
 > Яндекс.Учебника из программы математики или русского языка начальной школы; предусмотреть вариации для школ с разным оборудованием...
 
 [tapermonkey выделяет виды восприятия учеников](tapermonkey.js)
+
 [целевая страничка tapermonkey](https://education.yandex.ru/lab/classes/66354/courses/195952/journal/)
 
 [вопросы для бота](bot_questions.txt)
 
 [вопросы для бота](bot_questions.txt)
+
 [парсинг логинов и паролей с преподавательского интерфейса яндекс учебника](parse_students_logins_and_pass)
+
 [вопросы для бота](bot_questions.txt)
