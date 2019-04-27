@@ -15,8 +15,8 @@
 
 [вопросы для бота](bot_questions.txt)
 
-[вопросы для бота](bot_questions.txt)
-
 [парсинг логинов и паролей с преподавательского интерфейса яндекс учебника](parse_students_logins_and_pass)
 
-[вопросы для бота](bot_questions.txt)
+[Кейс и условия хакатона](documents)
+
+
