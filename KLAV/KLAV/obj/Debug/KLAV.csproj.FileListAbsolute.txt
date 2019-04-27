@@ -1,0 +1,30 @@
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\bin\Debug\KLAV.exe.config
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\bin\Debug\KLAV.exe
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\bin\Debug\KLAV.pdb
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\obj\Debug\KLAV.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\obj\Debug\KLAV.exe
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\obj\Debug\KLAV.pdb
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\obj\Debug\KLAV.MainForm.resources
+C:\Users\admin\Documents\SharpDevelop Projects\KLAV\KLAV\obj\Debug\KLAV.csproj.GenerateResource.Cache
+F:\KLAV\KLAV\bin\Debug\KLAV.exe.config
+F:\KLAV\KLAV\bin\Debug\KLAV.exe
+F:\KLAV\KLAV\bin\Debug\KLAV.pdb
+F:\KLAV\KLAV\obj\Debug\KLAV.csprojAssemblyReference.cache
+F:\KLAV\KLAV\obj\Debug\KLAV.MainForm.resources
+F:\KLAV\KLAV\obj\Debug\KLAV.csproj.GenerateResource.cache
+F:\KLAV\KLAV\obj\Debug\KLAV.csproj.CoreCompileInputs.cache
+F:\KLAV\KLAV\obj\Debug\KLAV.exe
+F:\KLAV\KLAV\obj\Debug\KLAV.pdb
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\bin\Debug\KLAV.exe.config
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\bin\Debug\KLAV.exe
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\bin\Debug\KLAV.pdb
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\obj\Debug\KLAV.csprojAssemblyReference.cache
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\obj\Debug\KLAV.MainForm.resources
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\obj\Debug\KLAV.csproj.GenerateResource.cache
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\obj\Debug\KLAV.csproj.CoreCompileInputs.cache
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\obj\Debug\KLAV.exe
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\obj\Debug\KLAV.pdb
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\bin\Debug\AI.dll
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\bin\Debug\AI.pdb
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\bin\Debug\AI.xml
+C:\Users\Понимаш Захар\Desktop\KLAV\KLAV\obj\Debug\KLAV.csproj.CopyComplete
