@@ -1,9 +1,4 @@
-#!/usr/bin/env python
 # coding: utf-8
-
-# In[47]:
-
-
 from selenium import webdriver
 from random import randint
 from time import sleep
@@ -16,15 +11,9 @@ from random import randint
 from selenium import webdriver
 
 
-# In[48]:
-
-
 options = webdriver.ChromeOptions()
 chrome_options = webdriver.ChromeOptions()
 chrome = webdriver.Chrome("C:\\programs\\chromedriver\\chromedriver.exe", chrome_options=chrome_options)
-
-
-# In[49]:
 
 
 if os.path.exists("cookies_Y_EDY.pkl"):
@@ -44,10 +33,6 @@ else:
     aaa = input()
     pickle.dump(chrome.get_cookies(), open("cookies_Y_EDY.pkl", "wb"))
 
-
-# In[50]:
-
-
 chrome.get("https://education.yandex.ru/lab/classes/66354/settings/") 
 elems = chrome.find_elements_by_class_name('students__student-row')
 for item in elems:
@@ -55,40 +40,3 @@ for item in elems:
     login = item.find_element_by_class_name('students__table-student-login').text
     code = item.find_element_by_class_name('students__table-school-code').text
     print(name, login, code)
-
-
-# In[43]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[45]:
-
-
-
-
-
-# In[46]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
