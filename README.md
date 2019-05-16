@@ -12,3 +12,6 @@
 
 [Сертификат 1 место](Scan.pdf)
 
+Авторы 
+- https://github.com/DenisSouth
+- https://github.com/
