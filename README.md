@@ -14,4 +14,5 @@
 
 Авторы 
 - https://github.com/DenisSouth
-- https://github.com/
+- https://github.com/zaharPonimash
+- Вопросы составляли Лидия Борисова и Валерий Алексеев 
